@@ -1,0 +1,19 @@
+John Smith
+Email: john.smith@example.com
+Phone: 9876543210
+
+Professional Summary
+Experienced software engineer with 5 years of experience in Python, Java, and React.
+Strong communication skills and a proven record of delivering production systems.
+
+Education
+B.Tech in Computer Science, 2018-2022
+
+Experience
+Software Engineer at Tech Corp (2022-Present)
+- Developed REST APIs with FastAPI and Django
+- Implemented machine learning pipelines with scikit-learn
+- Collaborated with product and QA teams
+
+Skills
+Python, Java, JavaScript, React, SQL, MongoDB, Docker, AWS, Git
